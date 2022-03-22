@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "target": "es2019",
+        "module": "commonjs",
+        "outDir": "build",
+        "sourceMap": true,
+        "allowSyntheticDefaultImports": true,
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "rootDir": "./src",
+        "typeRoots": [
+            "node_modules/@types",
+            "./src/types"
+        ]
+    },
+    "include": [
+        "src/**/*.ts",
+        ".eslintrc.js"
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+    "ts-node": {
+        "compilerOptions": {
+            "module": "commonjs"
+        }
+    }
+}
