@@ -110,5 +110,5 @@ In case you don't to use the source, a NodeJS version is available where you can
 The source method is preferred.
 
 ## Acknowledgments:
-[Gurgarath](https://metin2.dev/profile/17997-gurgarath/) for testing the tutorial on Windows.
+[Gurgarath](https://metin2.dev/profile/17997-gurgarath/) for testing the tutorial on Windows.\
 [Deliris](https://metin2.dev/profile/11396-deliris/) for testing the tutorial on FreeBSD.
