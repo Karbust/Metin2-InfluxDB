@@ -52,7 +52,8 @@ vcpkg install curl[openssl]:x86-windows-static
 
 ## Auto Event Manager
 
-In case you already have this class/file, just compare and make the necessary changes. All the changes related to Influx are wrapped with the macro `INFLUX_STATS`.\
+In case you already have this class/file, just compare and make the necessary changes. All the changes related to Influx are wrapped with the macro `INFLUX_STATS`.
+
 Don't forget to also make the necessary changes on `main.cpp`. If you are already using this you won't need to include the header and initialize the class.
 
 ## Edit Time
